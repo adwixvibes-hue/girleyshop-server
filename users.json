@@ -1,14 +1,7 @@
 [
-    {
-        "username": "admin",
-        "password": "girlyshop2026",
-        "role": "admin",
-        "createdAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
-        "username": "editor",
-        "password": "editor2025",
-        "role": "editor",
-        "createdAt": "2026-01-01T00:00:00.000Z"
-    }
+  {
+    "username": "admin",
+    "password": "123",
+    "role": "admin"
+  }
 ]
