@@ -1,80 +1,104 @@
 [
-    {
-        "id": 1,
-        "name": "Robe Fleurie Midi",
-        "cat": "robe",
-        "price": 3800,
-        "oldPrice": null,
-        "stock": 10,
-        "status": "active",
-        "badge": "new",
-        "sizes": ["XS", "S", "M", "L"],
-        "img": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=420&q=80",
-        "emoji": "🌸"
-    },
-    {
-        "id": 2,
-        "name": "Top Brodé Sable",
-        "cat": "top",
-        "price": 2200,
-        "oldPrice": null,
-        "stock": 15,
-        "status": "active",
-        "badge": "",
-        "sizes": ["S", "M", "L", "XL"],
-        "img": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=420&q=80",
-        "emoji": "✨"
-    },
-    {
-        "id": 3,
-        "name": "Sac Tressé Camel",
-        "cat": "sac",
-        "price": 3200,
-        "oldPrice": 4500,
-        "stock": 5,
-        "status": "active",
-        "badge": "sale",
-        "sizes": ["Unique"],
-        "img": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=420&q=80",
-        "emoji": "👜"
-    },
-    {
-        "id": 4,
-        "name": "Robe Dos Nu Noir",
-        "cat": "robe",
-        "price": 4200,
-        "oldPrice": null,
-        "stock": 8,
-        "status": "active",
-        "badge": "new",
-        "sizes": ["XS", "S", "M", "L", "XL"],
-        "img": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=420&q=80",
-        "emoji": "🖤"
-    },
-    {
-        "id": 5,
-        "name": "Chemisier Soie Ivoire",
-        "cat": "top",
-        "price": 2900,
-        "oldPrice": null,
-        "stock": 12,
-        "status": "active",
-        "badge": "",
-        "sizes": ["S", "M", "L"],
-        "img": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=420&q=80",
-        "emoji": "🤍"
-    },
-    {
-        "id": 6,
-        "name": "Collier Doré Fin",
-        "cat": "accessoire",
-        "price": 1200,
-        "oldPrice": null,
-        "stock": 20,
-        "status": "active",
-        "badge": "new",
-        "sizes": ["Unique"],
-        "img": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=420&q=80",
-        "emoji": "💛"
-    }
+  {
+    "id": 1,
+    "name": "Robe Fleurie Midi",
+    "cat": "robe",
+    "price": 3800,
+    "oldPrice": null,
+    "stock": 10,
+    "status": "hidden",
+    "badge": "new",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "img": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=420&q=80",
+    "emoji": "🌸"
+  },
+  {
+    "id": 2,
+    "name": "Top Brodé Sable",
+    "cat": "top",
+    "price": 2200,
+    "oldPrice": null,
+    "stock": 15,
+    "status": "active",
+    "badge": "",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=420&q=80",
+    "emoji": "✨"
+  },
+  {
+    "id": 3,
+    "name": "Sac Tressé Camel",
+    "cat": "sac",
+    "price": 3200,
+    "oldPrice": 4500,
+    "stock": 5,
+    "status": "active",
+    "badge": "sale",
+    "sizes": [
+      "Unique"
+    ],
+    "img": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=420&q=80",
+    "emoji": "👜"
+  },
+  {
+    "id": 4,
+    "name": "Robe Dos Nu Noir",
+    "cat": "robe",
+    "price": 4200,
+    "oldPrice": null,
+    "stock": 8,
+    "status": "active",
+    "badge": "new",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=420&q=80",
+    "emoji": "🖤"
+  },
+  {
+    "id": 5,
+    "name": "Chemisier Soie Ivoire",
+    "cat": "top",
+    "price": 2900,
+    "oldPrice": null,
+    "stock": 12,
+    "status": "active",
+    "badge": "",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "img": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=420&q=80",
+    "emoji": "🤍"
+  },
+  {
+    "id": 6,
+    "name": "Collier Doré Fin",
+    "cat": "accessoire",
+    "price": 1200,
+    "oldPrice": null,
+    "stock": 20,
+    "status": "active",
+    "badge": "new",
+    "sizes": [
+      "Unique"
+    ],
+    "img": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=420&q=80",
+    "emoji": "💛"
+  }
 ]
