@@ -76,7 +76,7 @@
     "price": 2900,
     "oldPrice": null,
     "stock": 12,
-    "status": "hidden",
+    "status": "active",
     "badge": "",
     "sizes": [
       "XS",
