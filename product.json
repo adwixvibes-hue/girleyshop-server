@@ -1,23 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Robe Fleurie Midi",
-    "cat": "robe",
-    "price": 3800,
-    "oldPrice": null,
-    "stock": 10,
-    "status": "active",
-    "badge": "new",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L"
-    ],
-    "img": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=420&q=80",
-    "emoji": "🌸"
-  },
-  {
     "id": 2,
     "name": "Top Brodé Sable",
     "cat": "top",
