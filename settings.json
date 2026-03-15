@@ -28,9 +28,9 @@
     {
       "id": "sac",
       "nameFr": "Sacs",
-      "nameAr": "Ø­ÙØ§Ø¦Ø¨",
-      "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500&q=80",
-      "description": "Sacs Ã  main et accessoires"
+      "nameAr": "حقائب",
+      "description": "Sacs Ã  main et accessoires",
+      "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500&q=80"
     },
     {
       "id": "accessoire",
