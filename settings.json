@@ -35,9 +35,9 @@
     {
       "id": "accessoire",
       "nameFr": "Accessoires",
-      "nameAr": "Ø¥ÙØ³Ø³ÙØ§Ø±Ø§Øª",
-      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&q=80",
-      "description": "Accessoires pour parfaire votre look"
+      "nameAr": "إكسسوارات",
+      "description": "Accessoires pour parfaire votre look",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&q=80"
     }
   ],
   "availableSizes": [
