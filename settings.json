@@ -14,37 +14,45 @@
     {
       "id": "robe",
       "nameFr": "Robes",
-      "nameAr": "فساتين",
+      "nameAr": "ÙØ³Ø§ØªÙÙ",
       "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500&q=80",
-      "description": "Robes élégantes pour toutes les occasions"
+      "description": "Robes Ã©lÃ©gantes pour toutes les occasions"
     },
     {
       "id": "top",
       "nameFr": "Tops",
-      "nameAr": "توب",
+      "nameAr": "ØªÙØ¨",
       "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=500&q=80",
       "description": "Tops tendance et confortables"
     },
     {
       "id": "sac",
       "nameFr": "Sacs",
-      "nameAr": "حقائب",
+      "nameAr": "Ø­ÙØ§Ø¦Ø¨",
       "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500&q=80",
-      "description": "Sacs à main et accessoires"
+      "description": "Sacs Ã  main et accessoires"
     },
     {
       "id": "accessoire",
       "nameFr": "Accessoires",
-      "nameAr": "إكسسوارات",
+      "nameAr": "Ø¥ÙØ³Ø³ÙØ§Ø±Ø§Øª",
       "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&q=80",
       "description": "Accessoires pour parfaire votre look"
     }
   ],
-  "availableSizes": ["XS", "S", "M", "L", "XL", "XXL"],
+  "availableSizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "SM"
+  ],
   "siteName": "GIRLY SHOP",
-  "siteSubtitle": "Constantine — L'art de l'élégance ✦",
+  "siteSubtitle": "Constantine â L'art de l'Ã©lÃ©gance â¦",
   "contactInfo": {
-    "address": "Constantine — Nouvelle ville — Sequoir n°99",
+    "address": "Constantine â Nouvelle ville â Sequoir nÂ°99",
     "phone": "0542654405",
     "whatsapp": "https://wa.me/213542654405",
     "instagram": "https://www.instagram.com/boutique_l_a_shop/"
