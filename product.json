@@ -1,20 +1,5 @@
 [
   {
-    "id": 6,
-    "name": "Collier Doré Fin",
-    "cat": "accessoire",
-    "price": 1200,
-    "oldPrice": null,
-    "stock": 20,
-    "status": "active",
-    "badge": "new",
-    "sizes": [
-      "Unique"
-    ],
-    "img": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=420&q=80",
-    "emoji": "💛"
-  },
-  {
     "id": 1773651122805,
     "name": "أحمر شفاه",
     "cat": "makeup",
