@@ -1,20 +1,5 @@
 [
   {
-    "id": 3,
-    "name": "Sac Tressé Camel",
-    "cat": "sac",
-    "price": 3200,
-    "oldPrice": 4500,
-    "stock": 5,
-    "status": "active",
-    "badge": "sale",
-    "sizes": [
-      "Unique"
-    ],
-    "img": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=420&q=80",
-    "emoji": "👜"
-  },
-  {
     "id": 4,
     "name": "Robe Dos Nu Noir",
     "cat": "robe",
