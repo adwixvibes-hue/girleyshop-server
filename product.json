@@ -1,23 +1,5 @@
 [
   {
-    "id": 2,
-    "name": "Top Brodé Sable",
-    "cat": "top",
-    "price": 2200,
-    "oldPrice": null,
-    "stock": 15,
-    "status": "active",
-    "badge": "",
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "img": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=420&q=80",
-    "emoji": "✨"
-  },
-  {
     "id": 3,
     "name": "Sac Tressé Camel",
     "cat": "sac",
