@@ -1,24 +1,5 @@
 [
   {
-    "id": 4,
-    "name": "Robe Dos Nu Noir",
-    "cat": "robe",
-    "price": 4200,
-    "oldPrice": null,
-    "stock": 8,
-    "status": "active",
-    "badge": "new",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "img": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=420&q=80",
-    "emoji": "🖤"
-  },
-  {
     "id": 6,
     "name": "Collier Doré Fin",
     "cat": "accessoire",
