@@ -1,9 +1,7 @@
-[
-  {
-    "id": 1774475152240,
-    "username": "dhiaa",
-    "email": "yigiririn469@gmail.com",
-    "role": "admin",
-    "password": "dhiaa"
-  }
-]
+{
+  "id": 1774475152240,
+  "username": "admin",
+  "email": "admin@email.com",
+  "role": "admin",
+  "password": "123"
+}
