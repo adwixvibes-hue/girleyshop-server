@@ -1,7 +1,7 @@
 {
-  "id": 1774558817325,
-  "username": "test",
-  "email": "test@email",
-  "role": "manager",
-  "password": "test"
+  "id": 1774558847068,
+  "username": "admin",
+  "email": "admin@email.com",
+  "role": "admin",
+  "password": "123"
 }
